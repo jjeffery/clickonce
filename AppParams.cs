@@ -163,6 +163,7 @@ namespace ClickOnce
 		{
 			writer.WriteLine("Usage: {0} [ options ]", ProgramName);
 			writer.WriteLine("Generate a click-once deployment package.");
+			writer.WriteLine("https://github.com/jjeffery/clickonce");
 			writer.WriteLine();
 			writer.WriteLine("Options:");
 			optionSet.WriteOptionDescriptions(writer);
