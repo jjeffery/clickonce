@@ -53,7 +53,6 @@ unlikely that it would be useful for new projects.
 * This utility was developed circa 2009 for use with projects that at the time were
   being build using the [NAnt](http://nant.sourceforge.net/) build tool. More recent
   projects that build ClickOnce deployment packages are likely to make use of MSBuild.
-  This utility is useful
 
 * ClickOnce is not necessarily the best choice for deploying Windows desktop applications.
   Consider Squirrel (https://github.com/Squirrel/Squirrel.Windows), or 
